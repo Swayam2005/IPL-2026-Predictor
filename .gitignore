@@ -16,5 +16,9 @@ venv.bak/
 *.log
 .DS_Store
 
-# We will NOT ignore the model/ directory or data/ because they are necessary for the app to run.
+# Ignore ML artifacts
+model/
+data/
+
+# Optional
 *.webp

@@ -1,0 +1,3 @@
+@echo off
+echo Starting IPL 2026 Predictor...
+python -m uvicorn app.main:app --reload
