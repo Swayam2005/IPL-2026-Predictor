@@ -48,3 +48,15 @@ python train.py
 
 # Run server
 python run.py
+
+## ⚠️ Limitations
+
+This model predicts IPL match outcomes using historical and simulated data. 
+While it captures general trends and team strengths, cricket matches are inherently unpredictable.
+
+The model does not account for real-time factors such as:
+- Player form and injuries
+- Pitch and weather conditions
+- In-game decisions
+
+Therefore, predictions should be considered as probabilistic insights rather than exact outcomes.
