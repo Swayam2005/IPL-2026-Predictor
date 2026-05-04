@@ -31,15 +31,13 @@ Response:
 
 ## Setup
 
-```bash
 pip install -r requirements.txt
-python train.py
-python run.py
-## Dataset
-Dataset is not included in the repository.
 
-To generate dataset:
+# Generate dataset
 python generate_realistic_data.py
 
-## Train Model
+# Train model
 python train.py
+
+# Run server
+python run.py
