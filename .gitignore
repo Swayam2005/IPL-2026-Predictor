@@ -1,0 +1,20 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Project specifics
+*.log
+.DS_Store
+
+# We will NOT ignore the model/ directory or data/ because they are necessary for the app to run.
+*.webp
