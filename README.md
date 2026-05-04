@@ -1,4 +1,10 @@
 #  IPL 2026 Match Predictor
+## Screenshots
+
+![Screenshot1](Screenshots/Ss1.jpeg)
+![Screenshot2](Screenshots/Ss2.jpeg)
+![Screenshot3](Screenshots/Ss3.jpeg)
+
 
 A Machine Learning + FastAPI project that predicts IPL match winners and simulates tournament outcomes.
 
