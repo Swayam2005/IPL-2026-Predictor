@@ -4,6 +4,7 @@
 ![Screenshot1](Screenshots/Ss1.jpeg)
 ![Screenshot2](Screenshots/Ss2.jpeg)
 ![Screenshot3](Screenshots/Ss3.jpeg)
+![Screenshot4](Screenshots/Ss4.jpeg)
 
 
 A Machine Learning + FastAPI project that predicts IPL match winners and simulates tournament outcomes.
