@@ -14,6 +14,21 @@ A Machine Learning + FastAPI project that predicts IPL match winners and simulat
 - Scikit-learn
 - Pandas
 
+## API Endpoints
+
+POST /predict_api
+
+Example request:
+{
+  "team1": "MI",
+  "team2": "CSK"
+}
+
+Response:
+{
+  "winner": "MI"
+}
+
 ## Setup
 
 ```bash
